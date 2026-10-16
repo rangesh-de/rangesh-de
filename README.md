@@ -25,31 +25,31 @@
 
 Every project runs on real data and ends with findings, not just code.
 
-**[olist-ecommerce-sql](https://github.com/rangesh-de/olist-ecommerce-sql)** · PostgreSQL, Docker, Python
-15 business questions on 100k Brazilian e-commerce orders: cohort retention, RFM, seller Pareto.
+**[olist-ecommerce-sql](https://github.com/rangesh-de/olist-ecommerce-sql)** · PostgreSQL, Docker, Python  
+15 business questions on 100k Brazilian e-commerce orders: cohort retention, RFM, seller Pareto.  
 → Late deliveries drop review scores from 4.29 to 1.70 stars; the top 10% of sellers bring in 67.5% of revenue.
 
-**[ga4-ecommerce-analytics](https://github.com/rangesh-de/ga4-ecommerce-analytics)** · BigQuery, SQL
-Funnel, acquisition, and retention analysis on Google Merchandise Store GA4 data.
+**[ga4-ecommerce-analytics](https://github.com/rangesh-de/ga4-ecommerce-analytics)** · BigQuery, SQL  
+Funnel, acquisition, and retention analysis on Google Merchandise Store GA4 data.  
 → 78.6% of sessions never view a product; returning visitors with 4+ sessions convert 7x better.
 
-**[telco-churn-prediction](https://github.com/rangesh-de/telco-churn-prediction)** · Python, scikit-learn
-Churn model chosen by PR-AUC with a profit-based targeting threshold.
+**[telco-churn-prediction](https://github.com/rangesh-de/telco-churn-prediction)** · Python, scikit-learn  
+Churn model chosen by PR-AUC with a profit-based targeting threshold.  
 → Targeting 620 customers reaches 308 of 374 churners, an estimated $52K net vs $12K for random outreach.
 
-**[walmart-sales-dashboard](https://github.com/rangesh-de/walmart-sales-dashboard)** · Python, Tableau
-Weekly sales across 45 Walmart stores, including holiday lift and store-format efficiency.
+**[walmart-sales-dashboard](https://github.com/rangesh-de/walmart-sales-dashboard)** · Python, Tableau  
+Weekly sales across 45 Walmart stores, including holiday lift and store-format efficiency.  
 → The dataset's "Christmas" holiday week is down 8.1%; the real sales peak is the week before. Thanksgiving week lifts sales 40.6%.
 
-**[hr-attrition-dashboard](https://github.com/rangesh-de/hr-attrition-dashboard)** · Python, Tableau
-Attrition drivers and cost on the IBM HR dataset.
+**[hr-attrition-dashboard](https://github.com/rangesh-de/hr-attrition-dashboard)** · Python, Tableau  
+Attrition drivers and cost on the IBM HR dataset.  
 → 16.1% attrition costing ~$6.8M; overtime workers leave at 3x the rate.
 
-**[chicago-crime-analysis](https://github.com/rangesh-de/chicago-crime-analysis)** · pandas, Jupyter
-EDA on 1.69M crime records pulled from the City of Chicago API.
+**[chicago-crime-analysis](https://github.com/rangesh-de/chicago-crime-analysis)** · pandas, Jupyter  
+EDA on 1.69M crime records pulled from the City of Chicago API.  
 → Arrest rate fell from 21.5% to 16.1%; 18 of 77 community areas account for half of all crime.
 
-**[api-data-collector](https://github.com/rangesh-de/api-data-collector)** · Python, SQLite, GitHub Actions
+**[api-data-collector](https://github.com/rangesh-de/api-data-collector)** · Python, SQLite, GitHub Actions  
 Automated daily pipeline collecting data job postings and weather data, with tests and run logs.
 
 ---
